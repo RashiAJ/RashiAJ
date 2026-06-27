@@ -13,9 +13,9 @@
 ---
 
 # 🚀 About Me
-
+# Education
 🎓 **B.Tech CSE (AI & ML)** @ SRM Institute of Science & Technology
-
+# Experience
 💼 **Generative AI Developer Intern** @ Tenth Planet Technologies
 
 🧠 **Areas of Interest**
@@ -32,8 +32,6 @@
 - Smart Traffic Management Platform
 - RAG & Local LLM Applications
 
-⚡ **Goal**
-> Building intelligent systems for finance, healthcare, and autonomous decision making.
 
 # 🛠️ Tech Stack
 
