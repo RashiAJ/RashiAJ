@@ -12,34 +12,28 @@
 
 ---
 
-# 💫 About Me
+# 🚀 About Me
 
-```python
-class RashidAbdulJabbar:
+🎓 **B.Tech CSE (AI & ML)** @ SRM Institute of Science & Technology
 
-    education = "B.Tech CSE (AI & ML) @ SRMIST"
-    cgpa = "9.10"
+💼 **Generative AI Developer Intern** @ Tenth Planet Technologies
 
-    currently_working_on = [
-        "Generative AI",
-        "Portfolio Optimization",
-        "Algorithmic Trading",
-        "RAG Systems",
-        "Computer Vision"
-    ]
+🧠 **Areas of Interest**
+- Quantitative Finance
+- Algorithmic Trading & HFT
+- Generative AI
+- Multi-Agent Systems
+- Reinforcement Learning
+- Healthcare AI
 
-    interests = [
-        "Quantitative Finance",
-        "High Frequency Trading",
-        "Multi-Agent Systems",
-        "Healthcare AI",
-        "Reinforcement Learning"
-    ]
+🚀 **Currently Building**
+- Portfolio Optimization Engine
+- AI Healthcare Systems
+- Smart Traffic Management Platform
+- RAG & Local LLM Applications
 
-    motto = "Build intelligent systems that solve real-world problems."
-```
-
----
+⚡ **Goal**
+> Building intelligent systems for finance, healthcare, and autonomous decision making.
 
 # 🛠️ Tech Stack
 
