@@ -20,7 +20,7 @@
 
 **Experience**
 
-💼 **Generative AI Developer Intern** @ Tenth Planet Technologies
+💼 **EX - Generative AI Developer Intern** @ Tenth Planet Technologies
 
 🧠 **Areas of Interest**
 - Quantitative Finance
